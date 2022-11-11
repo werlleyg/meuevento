@@ -1,0 +1,11 @@
+name: Yarn Workflow
+on: push
+
+jobs:
+  build:
+    name: Yarn Build
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v1
+      - run: yarn
+      - run: yarn build
