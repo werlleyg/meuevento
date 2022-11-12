@@ -12,6 +12,7 @@ export const Container = styled.div`
   min-height: 100%;
   padding: 2rem;
   position: relative;
+  min-height: 100vh;
 
   * {
     outline-color: ${primaryColor};
