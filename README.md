@@ -41,24 +41,12 @@ Todas as configurações de projeto estão detalhadas no arquivo `.env.example`.
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
 - Página de Credenciados 
 <img src="https://github.com/werlleyg/meuevento/blob/develop/public/assets/screenshots/registered-page-web.png" align="left" width="450px"/>
 <img src="https://github.com/werlleyg/meuevento/blob/develop/public/assets/screenshots/registered-page-mobile.png" align="left" width="130px"/>
+
 <br/>
 <br/>
 <br/>
@@ -71,14 +59,7 @@ Todas as configurações de projeto estão detalhadas no arquivo `.env.example`.
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ### Workflows
 
