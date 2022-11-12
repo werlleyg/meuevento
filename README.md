@@ -44,11 +44,21 @@ Todas as configurações de projeto estão detalhadas no arquivo `.env.example`.
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 - Página de Credenciados 
 <img src="https://github.com/werlleyg/meuevento/blob/develop/public/assets/screenshots/registered-page-web.png" align="left" width="500px"/>
 <img src="https://github.com/werlleyg/meuevento/blob/develop/public/assets/screenshots/registered-page-mobile.png" align="left" width="150px"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
